@@ -46,6 +46,7 @@ Some brief information about each and every code file are provided below--
  9. *SEZQR_Solution.py*- Provides numerical solution for the SEZQR model.
 
 **Jupyter** 
+
 Inside this directory, all the code files are provided as Anaconda Jupyter Notebook file formats. The *PDF* folder contains all the codes and their outputs within the notebook files as simple pdf files.
 
  1. *ModifiedSEZQR_Model.ipynb*- Contains all the relevant codes for the modified SEZQR model (chapter 04).
