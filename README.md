@@ -53,7 +53,8 @@ Inside this directory, all the code files are provided as Anaconda Jupyter Noteb
  2. *ModifiedSEZQR_SpecialCase.ipynb*- Contains all the codes for the special cases of the modified SEZQR model (chapter 04).
  3. *PerturbedSZR_model.ipynb*- Contains all the relevant codes for the perturbed SZR model (chapter 03).
  4. *PerturbedSZR_PhasePortrait_GUI.ipynb*- The interactive graphical user interface program for drawing the phase portraits of the perturbed SZR model (chapter 03).
- 5. *SIR_model.ipynb*- Contains all the codes for the basic SIR model (chapter 02).
- 6. *SZR_model.ipynb*- Contains all the codes for the SZR model (chapter 03).
+ 5. *SEZQR_model.ipynb*- Contains all the codes for the SEZQR model (chapter 04).
+ 6. *SIR_model.ipynb*- Contains all the codes for the basic SIR model (chapter 02).
+ 7. *SZR_model.ipynb*- Contains all the codes for the SZR model (chapter 03).
 
  
