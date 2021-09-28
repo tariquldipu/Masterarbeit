@@ -1,9 +1,13 @@
 # MASTER’S THESIS
 
 **Md Tariqul Islam**
+
 Matriculation Number: *218100921*
+
 Mathematical Modeling of Complex Systems
+
 Email- tariquldipu@uni-koblenz.de
+
 Universität Koblenz - Landau, Germany
 
 Topic- Mathematical Modeling and Simulation of A Zombie Epidemic
