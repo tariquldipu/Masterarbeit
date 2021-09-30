@@ -12,7 +12,7 @@ Universität Koblenz - Landau, Germany
 
 Topic- Mathematical Modeling and Simulation of A Zombie Epidemic
 
-This repository contains all the code files that were written during the Master's Thesis for various mathematical analysis and calculation.
+This repository contains all the code files that were written during the Master's Thesis for various mathematical analysis and calculation purposes.
 
 All the codes are available in two formats. Firstly, the codes are available in Anaconda Jupyter Notebook (as in .ipynb) format and are organized inside the Jupyter folder. The codes and their outputs are also saved in PDF formats inside this directory.
 
