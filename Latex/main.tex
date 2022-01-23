@@ -1,0 +1,77 @@
+\documentclass[12pt,twoside]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\graphicspath{  {images/}  }
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage[a4paper,width=150mm,top=25mm,bottom=25mm,bindingoffset=6mm]{geometry}
+\usepackage{setspace}
+\usepackage{blindtext}
+\usepackage[euler]{textgreek}
+\usepackage{amsmath}
+\numberwithin{equation}{chapter}
+\usepackage{float}
+\usepackage[hyphens]{xurl}
+\usepackage[export]{adjustbox}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\fancyhead{}
+%\fancyhead[CE, CO]{\leftmark}
+\renewcommand{\headrulewidth}{0pt}
+
+\onehalfspacing
+\raggedbottom
+\begin{document}
+\pagenumbering{roman}
+%\input{cover_de}
+\input{cover}
+
+\chapter*{Declaration of Honour}
+\addcontentsline{toc}{chapter}{Declaration of Honour}
+\input{honour}
+
+\chapter*{Acknowledgment}
+\addcontentsline{toc}{chapter}{Acknowledgment}
+\input{acknowledgment}
+
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+\input{abstract}
+
+
+\tableofcontents
+
+\listoffigures
+
+\listoftables
+\fancyhead[CE, CO]{\thechapter\ \ \leftmark}
+\pagebreak
+\pagenumbering{arabic}
+
+\chapter{Introduction}
+\input{chapters/chapter01}
+
+\chapter{SIR Epidemic Model}
+\input{chapters/chapter02}
+
+\chapter{Zombie Epidemic Model}
+\input{chapters/chapter03}
+
+\chapter{Quarantine Model}
+\input{chapters/chapter04}
+
+\chapter{Conclusion}
+\input{chapters/conclusion}
+
+\chapter*{Codes}
+\addcontentsline{toc}{chapter}{Codes}
+\chaptermark{Codes}
+\input{code}
+
+\chapter*{Bibliography}
+\addcontentsline{toc}{chapter}{Bibliography}
+\chaptermark{Bibliography}
+\input{bibliography}
+
+\end{document}

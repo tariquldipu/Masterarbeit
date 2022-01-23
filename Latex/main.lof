@@ -1,0 +1,37 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces SIR Model\relax }}{7}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Numeric Solution of SIR Model for Example Data\relax }}{9}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces SIR Model- Phase Portrait\relax }}{10}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Basic SZR Model\relax }}{13}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Basic SZR Model Numeric Solution for t = 10 Days\relax }}{16}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Basic SZR Model Numeric Solution for t = 4000 Days\relax }}{16}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Basic SZR Model- Phase Portrait\relax }}{17}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Perturbed SZR Model\relax }}{18}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Perturbed SZR Model Numeric Solution for t = 10 Days\relax }}{21}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Perturbed SZR Model Numeric Solution for t = 1000 Days\relax }}{21}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Perturbed SZR Model- Phase Portrait\relax }}{22}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Change of Stability, \textmu \ = 0.000 to 0.055\relax }}{23}{}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Change of Stability, \textmu \ = 0.060 to 0.095\relax }}{24}{}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Bifurcation Diagram for Perturbed SZR Model\relax }}{25}{}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces GUI Program for Generating Phase Portraits, Sample 01\relax }}{26}{}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces GUI Program for Generating Phase Portraits, Sample 02\relax }}{27}{}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Perturbed SZR- Relation Between Zombie Population and Perturbation Parameter\relax }}{28}{}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Perturbed SZR- Zombie Population with Increasing Perturbation Parameter\relax }}{29}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Perturbed SEZQR Model\relax }}{30}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Modified SEZQR Model with Perturbation\relax }}{33}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Bifurcation Diagram for Modified SEZQR Model \relax }}{40}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Modified SEZQR Model for t = 10 days\relax }}{42}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Modified SEZQR Model for t = 1000 days\relax }}{43}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Modified SEZQR Model without Perturbation for t = 1000 days\relax }}{43}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Modified SEZQR Model- Phase Portrait\relax }}{44}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Modified SEZQR- Relation Between Zombie Population and Perturbation Parameter\relax }}{45}{}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Modified SEZQR- Zombie Population with Different Perturbation Parameters\relax }}{46}{}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Bifurcation Diagram for SEZQR Model\relax }}{47}{}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Bifurcation Diagrams Comparison\relax }}{48}{}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Solution Comparison- SEZQR vs. Modified SEZQR\relax }}{49}{}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Special Case 01\relax }}{50}{}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Special Case 01 Numerical Solution\relax }}{52}{}%
+\addvspace {10\p@ }
